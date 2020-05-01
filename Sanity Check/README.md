@@ -1,8 +1,8 @@
 # Sanity Check
 
 ## Information
-Category: Misc    
-Difficulty: Baby  
+**Category**: Misc    
+**Difficulty**: Baby  
 **Author:** explo1t  
 **Points:** 45  
 **Description:**
