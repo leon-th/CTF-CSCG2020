@@ -83,5 +83,7 @@ Flag: CSCG{pass_1_g3ts_a_x0r_p4ss_2_g3ts_a_x0r_EVERYBODY_GETS_A_X0R}
 And there is the Flag:   
 `CSCG{pass_1_g3ts_a_x0r_p4ss_2_g3ts_a_x0r_EVERYBODY_GETS_A_X0R}`
 
+# Mitigation
 
-
+To prevent the password from being read out so easily, you could use a hashing procedure or other procedures which are not reversible.   
+In addition, you should distribute your binary without debugging symbols, since this makes reverse engineering easier

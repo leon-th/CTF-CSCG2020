@@ -29,3 +29,7 @@ With a good eye you can see a mysterious text in the lower right corner of the p
 
 Oh, it looks like a CSCG flag.
 And it is :smile:
+
+## Mitigation
+
+Under no conditions should critical information be transmitted in pictures and then certainly not in plain text

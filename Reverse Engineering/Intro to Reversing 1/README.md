@@ -72,3 +72,8 @@ Flag: CSCG{ez_pz_reversing_squ33zy}
 I created an Ghidra project with the rev1 file   
 Now there are two options, either go into the main function and search for the string compare or look into the found strings.
 ![Ghidra-Screenshot](Ghidra.png)
+
+## Mitigation
+
+To prevent the password from being read out so easily, you could use a hashing procedure, for example.
+In addition, you should distribute your binary without debugging symbols, since this makes reverse engineering easier
